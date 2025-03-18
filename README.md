@@ -1,6 +1,6 @@
 # Lab 3 - Flutter Mobile Application
 
-used copiot to create readme file and to add comment in the code.
+used copilot to create readme file and to add comment in the code.
 
 ## 📌 Project Overview
 This project is a **Flutter mobile application** developed as part of Lab 3. It follows Flutter best practices and includes features such as UI components, state management, and platform-specific configurations.
